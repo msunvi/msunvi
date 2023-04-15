@@ -11,7 +11,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me anything about DevOps, WordPress, PHP, and API development.
-- 📫 I am just one mail away - [i m sunvi at gmail dot com]
+- 📫 I am just one mail away - [ i m sunvi at gmail dot com ]
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love talk with new people, I love to write, I love to travel.
 - ✍️ &nbsp; Technical Writing on Software Documenation is my hobbies/side hustles.
