@@ -9,7 +9,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation). **Always Open for Any Kind of Open Source Contribution**
+- 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me anything about DevOps, WordPress, PHP, and API development.
 - 📫 I am just one mail away - [i m sunvi at gmail dot com]
 - 😄 Pronouns: He, Fat & Happy 😄
@@ -93,6 +93,8 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 <br/>
+
+<h3>🔢&nbsp;Numbers </h3>
 
 <a href="https://github.com/msunvi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msunvi&theme=buefy&show_icons=true" />
