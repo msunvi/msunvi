@@ -1,12 +1,19 @@
 <h2> Hey there! I'm Sunvi 🌞✌ </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Technical Writer. Skilled in PHP, MySQL, JavaScript, DS, Linux & Python. Always fueled by coffee, because I am a Coffee addict. Currently, **I'm open to work and employment opportunities**
+
+I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me anything about DevOps, WordPress, PHP, and API development.
+- 📫 I am just one mail away - [i m sunvi at gmail dot com]
+- 😄 Pronouns: He, Fat & Happy 😄
+- :partying_face: Fun fact: I love talk with new people, I love to write, I love to travel.
+- ✍️ &nbsp; Technical Writing on Software Documenation is my hobbies/side hustles.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
