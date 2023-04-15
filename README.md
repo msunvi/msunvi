@@ -95,7 +95,6 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 <br/>
-
 <h3>🔢&nbsp;Numbers and Stats </h3>
 
 <a href="https://github.com/msunvi">
