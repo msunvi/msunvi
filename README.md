@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Sunvi 🌞✌ </h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Sunvi 🌞✌</h1>
+
+Thanks for visiting my profile and Knowing about me ❤
 
 I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Technical Writer. Skilled in PHP, MySQL, JavaScript, DS, Linux & Python. Always fueled by coffee, because I am a Coffee addict. Currently, **I'm open to work and employment opportunities**
 
