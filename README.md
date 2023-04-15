@@ -4,12 +4,12 @@ I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Te
 
 I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
-## **Always Open for Any Kind of Open Source Contribution**
+**Always Open for Any Kind of Open Source Contribution**
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 👯 I’m currently open for work and employment opportunities (remote and relocation). **Always Open for Any Kind of Open Source Contribution**
 - 💬 Ask me anything about DevOps, WordPress, PHP, and API development.
 - 📫 I am just one mail away - [i m sunvi at gmail dot com]
 - 😄 Pronouns: He, Fat & Happy 😄
