@@ -1,7 +1,7 @@
 <h1>Hey there! I'm Sunvi 🌞✌</h1>
 
 <a href="https://github.com/msunvi">
-<img height="205em" align="right" src="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-uurtMtTKqkJda4dk8Y" />
+<img height="205em" align="right" src="https://media4.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" />
  </a>
 
 Thanks for visiting my profile and Knowing about me ❤
