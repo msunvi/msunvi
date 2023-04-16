@@ -158,6 +158,8 @@ I Actively code on WordPress themes and plugins, Python, Shell Scripts, Automati
   <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img alt="Sunvi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
 
+<br/>
+<br/>
 
-⭐️ From [Sunvi](https://github.com/msunvi)
+❤ From [Sunvi](https://github.com/msunvi)
 
