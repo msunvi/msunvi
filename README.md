@@ -98,7 +98,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 <h3>🔢&nbsp;Numbers and Stats </h3>
 
 <a href="https://github.com/msunvi">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=msunvi&theme=buefy&show_icons=true" />
+  <img height="205em" align="right" src="https://github-readme-stats.vercel.app/api?username=msunvi&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msunvi&theme=buefy&layout=compact" /> -->
 </a>
 
