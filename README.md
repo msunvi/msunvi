@@ -144,7 +144,20 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mainulsunvi) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mainulsunvi) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mainulsunvi) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/sanvy)
+<div align="left">
+  <a href="mailto:imsunvi@gmail.com" target="_blank" rel="noreferrer"> <img alt="Sunvi's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mainulsunvi" target="_blank" rel="noreferrer"> <img alt="Sunvi's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/msunvi" target="_blank" rel="noreferrer"> <img alt="Sunvi's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/" target="_blank" rel="noreferrer"> <img alt="Sunvi's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img alt="Sunvi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</div>
+
 
 ⭐️ From [Sunvi](https://github.com/msunvi)
 
