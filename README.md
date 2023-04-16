@@ -142,7 +142,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 -->
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Social & Contact </h3>
 
 <div align="left">
   <a href="mailto:imsunvi@gmail.com" target="_blank" rel="noreferrer"> <img alt="Sunvi's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
