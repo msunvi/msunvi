@@ -2,9 +2,9 @@
 
 Thanks for visiting my profile and Knowing about me ❤
 
-I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Technical Writer. Skilled in PHP, MySQL, JavaScript, DS, Linux & Python. Always fueled by coffee, because I am a Coffee addict. Currently, **I'm open to work and employment opportunities**
+I work as a DevOps Engineer , a Technical Writer, a WordPress Developer, and a passionate Contributor to Open Source Project. I am a coffee addict, therefore coffee is what keeps me going. At this time, **I'm open to work and employment opportunities**
 
-I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
+I Actively code on WordPress themes and plugins, Python, Shell Scripts, Automation Deployment, CI/CD Pipeline and APIs (in-house, end user products, and consumers), CLI Application Projects every day.
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhiNGI5NmU3MThkZGIwNzI3YzBjZTQ1MWI2NTZmMjMzMGUxYTU0ZiZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
 
