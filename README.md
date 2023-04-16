@@ -114,5 +114,5 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 
 ⭐️ From [Sunvi](https://github.com/msunvi)
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
 
