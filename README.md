@@ -8,6 +8,8 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 
 🔓&nbsp;**Always Open for Any Kind of Open Source Contribution**
 
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -111,6 +113,4 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mainulsunvi) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mainulsunvi) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mainulsunvi) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/sanvy)
 
 ⭐️ From [Sunvi](https://github.com/msunvi)
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
