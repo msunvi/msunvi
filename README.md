@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Sunvi 🌞✌</h1>
 
-<img height="205em" src="https://media4.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Thanks for visiting my profile and Knowing about me ❤
 
