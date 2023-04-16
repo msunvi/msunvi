@@ -102,7 +102,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msunvi&theme=buefy&layout=compact" /> -->
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msunvi&theme=onedark&border_radius=5&mode=weekly)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msunvi&theme=onedark&border_radius=2&mode=weekly)
 
 <br/>
 
