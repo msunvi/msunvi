@@ -6,7 +6,7 @@ I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Te
 
 I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
-<img align="right" src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width="550"/>
+<img align="right" src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width="550 px"/>
 
 🔓&nbsp;**Always Open for Any Kind of Open Source Contribution**
 
