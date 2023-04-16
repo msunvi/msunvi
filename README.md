@@ -6,9 +6,9 @@ I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Te
 
 I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
-🔓&nbsp;**Always Open for Any Kind of Open Source Contribution**
-
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
+🔓&nbsp;**Always Open for Any Kind of Open Source Contribution**
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
