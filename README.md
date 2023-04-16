@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Sunvi 🌞✌</h1>
 
-<iframe src="https://giphy.com/embed/uurtMtTKqkJda4dk8Y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-uurtMtTKqkJda4dk8Y">via GIPHY</a></p>
+<img height="205em" align="right" src="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-uurtMtTKqkJda4dk8Y" />
 
 Thanks for visiting my profile and Knowing about me ❤
 
