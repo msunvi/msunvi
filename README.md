@@ -1,7 +1,5 @@
 <h1>Hey there! I'm Sunvi 🌞✌</h1>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif | align="right")
-
 Thanks for visiting my profile and Knowing about me ❤
 
 I am a WordPress Developer, DevOps Engineer and Open Source Contributor and a Technical Writer. Skilled in PHP, MySQL, JavaScript, DS, Linux & Python. Always fueled by coffee, because I am a Coffee addict. Currently, **I'm open to work and employment opportunities**
@@ -114,5 +112,5 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 
 ⭐️ From [Sunvi](https://github.com/msunvi)
 
-<img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
