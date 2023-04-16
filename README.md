@@ -8,7 +8,7 @@ I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and API
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhiNGI5NmU3MThkZGIwNzI3YzBjZTQ1MWI2NTZmMjMzMGUxYTU0ZiZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 
-🔓&nbsp;**Always Open for Any Kind of Open Source Contribution**
+🔓&nbsp;**Always Ready to do Any Kind of Open Source Contribution**
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
