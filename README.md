@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Sunvi 🌞✌</h2>
 
-Thanks for visiting my profile and Knowing about me ❤
+I'm appreciate that you took the time to go through my profile and learn a little bit more about me ❤
 
 I work as a DevOps Engineer , a Technical Writer, a WordPress Developer, and a passionate Contributor to Open Source Project. I am a coffee addict, therefore coffee is what keeps me going. At this time, **I'm open to work and employment opportunities**
 
