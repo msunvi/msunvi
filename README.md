@@ -155,7 +155,7 @@ I Actively code on WordPress themes and plugins, Python, Shell Scripts, Automati
   &nbsp;
   <a href="https://www.hackerrank.com/" target="_blank" rel="noreferrer"> <img alt="Sunvi's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img alt="Sunvi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  <a href="https://leetcode.com/msunvi/" target="_blank" rel="noreferrer"> <img alt="Sunvi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
 
 <br/>
