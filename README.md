@@ -10,15 +10,15 @@ I Actively code on WordPress themes and plugins, Python, Shell Scripts, Automati
 
 🔓&nbsp;**Always Ready to do Any Kind of Open Source Contribution**
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Green University of Bangladesh.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Computer Science and Engineering at Green University of Bangladesh.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me anything about DevOps, WordPress, PHP, and API development.
 - 📫 I am just one mail away - [ i m sunvi at gmail dot com ]
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love talk with new people, I love to write, I love to travel.
-- ✍️ &nbsp; Technical Writing on Software Documenation is my hobbies/side hustles.
+- ✍️ Technical Writing on Software Documenation is my hobbies/side hustles.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
